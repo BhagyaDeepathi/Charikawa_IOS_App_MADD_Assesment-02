@@ -1,5 +1,6 @@
 
-#  Charikawa – Travel Memory App (IOS_App_MADD_Assesment-02)
+#  Charikawa – Travel Memory App 
+## IOS_App_MADD_Assesment-02
 *A modern travel diary built with SwiftUI, MapKit, Core Data & CoreML*
 
 ---

@@ -12,7 +12,7 @@ The app also uses **CoreML (MobileNetV2)** to automatically analyze photos and g
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Splash Screen
 <img width="250" alt="splashscreen" src="https://github.com/user-attachments/assets/7e5a862b-3c9a-488b-8a21-63109af58689" />
@@ -51,39 +51,39 @@ The app also uses **CoreML (MobileNetV2)** to automatically analyze photos and g
 
 ## 🗺️ Key Features
 
-### 📍 Map-Based Memory Creation
+### Map-Based Memory Creation
 - Long-press anywhere on the map to add a memory  
 - Custom pin annotations  
 - Reverse-geocoding for location names  
 - Search bar for global place lookup  
 
-### 📝 Memory Details
+### Memory Details
 - Add a title, notes, and photo  
 - Auto-generated AI tag (CoreML)  
 - Edit or delete memories  
 - Stores created date  
 
-### 📚 Memory Gallery
+### Memory Gallery
 - Clean card layout  
 - Tap a memory to jump to its pinned map location  
 - Smooth transitions & animations
 
- ### 📤 Share Memories  
+ ### Share Memories  
 - Each saved memory can be exported.  
 - Users can share their travel memories through social apps, messages, or cloud platforms.
 
-### 🤖 CoreML Photo Tagging
+### CoreML Photo Tagging
 - MobileNetV2 auto-classifies the photo  
 - Tag stored in Core Data  
 - Tag can be manually edited   
 
-### 🎨 Advanced UI & UX
+### Advanced UI & UX
 - Custom animations  
 - Custom map markers  
 - Gradient backgrounds  
 - Responsive layouts  
 
-### 💾 Core Data Persistence
+### Core Data Persistence
 - Stores title, description, image, coordinates, date, and AI tag  
 
 ---
@@ -121,7 +121,7 @@ The app also uses **CoreML (MobileNetV2)** to automatically analyze photos and g
 
 ---
 
-## 🧪 Testing & Debugging
+## Testing & Debugging
 Includes:
 - Basic Unit Tests  
 - UI Tests for navigation and memory CRUD  
@@ -156,7 +156,7 @@ Charikawa
 
 ---
 
-## 🤖 AI-Assisted Development Notes
+## AI-Assisted Development Notes
 **Tools Used:**  
 - ChatGPT  
 
@@ -170,7 +170,7 @@ Charikawa
 
 ---
 
-## 🧠 Design Decisions
+## Design Decisions
 - MapKit for a natural travel experience  
 - Core Data for offline storage  
 - CoreML for emerging technology integration  
@@ -178,19 +178,19 @@ Charikawa
 
 ---
 
-## 🗒️ Future Enhancements
+## Future Enhancements
 - CloudKit sync  
 - Trip folders / categories  
 - Offline map support  
 
 ---
 
-## 👤 Author
+## Author
 **Bhagya Deepathi Pathirana — IT22306890**
 
 ---
 
-## 📄 License
+## License
 This project is academic coursework and is **not licensed for commercial use**.
 
 
